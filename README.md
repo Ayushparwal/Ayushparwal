@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayush Parwal (ayushokaay)</h1>
-<h3 align="center">A passionate ML developer and Data Science Enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Ayush Parwal </h1>
+<h3 align="center">A passionate ML developer  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushparwal&label=Profile%20views&color=0e75b6&style=flat" alt="ayushparwal" /> </p>
 
@@ -15,14 +15,12 @@
 
 - 📫 How to reach me **ayushparwal777@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ul24fsObXHPZd1Z_L65XCi--_JvXbZB6/view](https://drive.google.com/file/d/1ul24fsObXHPZd1Z_L65XCi--_JvXbZB6/view)
-
 - ⚡ Fun fact **I think I am funny and lazy :))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayushparwal2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushparwal2004" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-parwal-797a79255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-parwal-797a79255/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-parwal-797a79255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-parwal-797a79255/" height="30" width="40" /></a>
 <a href="https://kaggle.com/ayushparwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayushparwal" height="30" width="40" /></a>
 <a href="https://instagram.com/ayushokaay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushokaay" height="30" width="40" /></a>
 <a href="https://medium.com/@ayushokaay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayushokaay" height="30" width="40" /></a>
