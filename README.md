@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayushparwal2004" target="blank"><img src="https://img.shields.io/twitter/follow/ayushparwal2004?logo=twitter&style=for-the-badge" alt="ayushparwal2004" /></a> </p>
 
-- 🌱 I’m currently learning **MLops**
+- 🌱 I’m currently learning **MLops & Automation**
 
 - 👨‍💻 All of my projects are available at [https://ayushnet.vercel.app/](https://ayushnet.vercel.app/)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ayushparwal777@gmail.com**
 
-- ⚡ Fun fact **I think I am funny and lazy :))**
+- ⚡ Fun fact **I think I am funny & lazy :))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
