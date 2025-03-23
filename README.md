@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ayushokaay](https://medium.com/@ayushokaay)
 
-- 💬 Ask me about **Machine Learning, AI, NLP**
+- 💬 Ask me about **Machine Learning, AI, NLP, Data Structures and Algos**
 
 - 📫 How to reach me **ayushparwal777@gmail.com**
 
