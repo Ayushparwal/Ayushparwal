@@ -7,15 +7,7 @@
 
 - 🌱 I’m currently learning **MLops, Automation and AutoMLs**
 
-- 👨‍💻 All of my projects are available at [https://ayushnet.vercel.app/](https://ayushnet.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@ayushokaay](https://medium.com/@ayushokaay)
-
-- 💬 Ask me about **Machine Learning, AI, NLP, Data Structures and Algos**
-
-- 📫 How to reach me **ayushparwal777@gmail.com**
-
-- ⚡ Fun fact **I think I am funny & lazy :))**
 
 
 
